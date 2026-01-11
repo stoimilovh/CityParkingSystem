@@ -1,0 +1,44 @@
+{
+  "id": 1,
+  "name": "City Parking",
+  "location": "Kocani",
+  "floors": {
+    "1": {
+      "floorNumber": 1,
+      "availableSpots": 39,
+      "tickets": {
+        "KO766PB": {
+          "id": 2,
+          "floorNumber": 1,
+          "vehicleRegistration": "KO766PB",
+          "vehicleType": "TRUCK",
+          "startTime": "18:21:19.893826"
+        }
+      }
+    },
+    "2": {
+      "floorNumber": 2,
+      "availableSpots": 40,
+      "tickets": {}
+    },
+    "3": {
+      "floorNumber": 3,
+      "availableSpots": 40,
+      "tickets": {}
+    },
+    "4": {
+      "floorNumber": 4,
+      "availableSpots": 39,
+      "tickets": {
+        "ST766PB": {
+          "id": 1,
+          "floorNumber": 4,
+          "vehicleRegistration": "ST766PB",
+          "vehicleType": "CAR",
+          "startTime": "18:21:06.057812"
+        }
+      }
+    }
+  },
+  "earnings": 240
+}
